@@ -54,6 +54,8 @@ Awesome list of data export pages/tools for most common online services
 * [Miro](https://help.miro.com/hc/en-us/articles/360017572754-How-to-export-your-board) - export your board in several ways or [make an importable backup](https://help.miro.com/hc/en-us/articles/360017572774) of a board
 * [Monday.com](https://support.monday.com/hc/en-us/articles/360002543719-How-to-export-your-entire-account-s-data) -  how to export your entire account's data
 * [Front](https://help.front.com/t/182vg7/how-to-export-your-teams-front-account-data) - how to export your team's Front account data
+* [airtable-backup](https://github.com/viewcourier/airtable-backup) - open-source Node.js script that exports every table of an Airtable base to CSV, plus the schema as JSON and optionally the attachment files
+* [airtable-attachments-downloader](https://github.com/viewcourier/airtable-attachments-downloader) - open-source Python script that downloads every attachment from an Airtable base, table or view into local folders
 
 ## Developer tools and services
 
